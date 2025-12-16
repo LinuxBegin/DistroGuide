@@ -26,6 +26,7 @@ A super Simple guide explaining the intent and specialty of each Linux Distribut
 20. CachyOS
 21. Nobara Linux
 22. Garuda Linux
+23. Arch Linux
 
 ## Categories:
 
