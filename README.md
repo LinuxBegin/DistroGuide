@@ -28,13 +28,7 @@ A super Simple guide explaining the intent and specialty of each Linux Distribut
 22. Garuda Linux
 
 ---
-## Skill Level Key:
 
-- 🟢 **Beginner** - Works out of box, GUI for everything, huge support community
-- 🟡 **Intermediate** - Some terminal commands needed, more customization options
-- 🔴 **Advanced** - Assumes Linux knowledge, requires troubleshooting skills
-
----
 ## Desktop Environments (DEs):-
 
 **What is a Desktop Environment (DE)?** It's what you actually see and interact with - your menus, windows, panels, and icons. Think of it like the difference between Windows 10 and Windows 11's interface, but with way more choices.
@@ -78,92 +72,77 @@ A super Simple guide explaining the intent and specialty of each Linux Distribut
 
 ---
 
-## 🎮 Gaming
+## Categories:
 
-**Optimized for performance, graphics drivers, and gaming workloads.**
+---
+### 🎮 Gaming
 
-### 🟡 Nobara Linux
+Optimized for performance, graphics drivers, and gaming workloads.
 
-### 🟡 Garuda Linux
-
-### 🟡 CachyOS
-
-### 🟢 Pop!_OS
-
+- [Nobara Linux](https://nobaraproject.org/)
+- [Garuda Linux](https://garudalinux.org/)
+- [CachyOS](https://cachyos.org/)
+- [Pop!_OS](https://system76.com/pop/?srsltid=AfmBOooR3nC29sIfdX4HBmahzVkNdR19lrpGHW8xe6qNLE5XDsfapg0Y)
 
 ---
 
 ## 🎓 Education
 
-**Beginner-friendly, stable, and suitable for learning Linux fundamentals.**
+Beginner-friendly, stable, and suitable for learning Linux fundamentals.
 
-### 🟢 Linux Mint
-
-### 🟢 Zorin OS
-
-### 🟢 Asmi Linux
-
-### 🟡 Sparky Linux
-
+- [Linux Mint](https://linuxmint.com/)
+- [Zorin OS](https://zorin.com/os/)
+- [Asmi Linux](https://teejeetech.com/asmi/)
+- [Sparky Linux](https://sparkylinux.org/)
 
 ---
 
 ## 🎨 Creativity
 
-**Focused on design, media creation, aesthetics, and smooth workflows.**
+Focused on design, media creation, aesthetics, and smooth workflows.
 
-### 🟢 Fedora Atomic
-
-### 🟢 Solus Linux
-
-### 🟡 Ultramarine Linux
-
-### 🟡 Archcraft
-
+- [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
+- [Solus Linux](https://getsol.us/)
+- [Ultramarine Linux](https://ultramarine-linux.org/)
+- [Archcraft](https://archcraft.io/)
 
 ---
 
 ## 💻 Programming & Development
 
-**Built for developers, rolling updates, experimentation, and control.**
+Built for developers, rolling updates, experimentation, and control.
 
-### 🔴 Siduction Linux
-
-### 🟡 Rhino Linux
-
-### 🟡 Manjaro Linux
-
-### 🟢 Fedora
-
-### 🔴 Arch Linux
-
+- [Siduction Linux](https://siduction.org/)
+- [Rhino Linux](https://rhinolinux.org/)
+- [Manjaro Linux](https://manjaro.org/)
+- [Fedora](https://fedoraproject.org/)
+- [Arch Linux](https://archlinux.org/)
 
 ---
 
 ## 🏢 Business & Servers
 
-**Prioritizes stability, long-term support, and professional environments.**
+Prioritizes stability, long-term support, and professional environments.
 
-### 🟢 Ubuntu
-
-### 🟢 Debian
-
-### 🟡 OpenSUSE
-
-### 🟡 MX Linux
-
+- [Ubuntu](https://ubuntu.com/)
+- [Debian](https://www.debian.org/)
+- [OpenSUSE](https://www.opensuse.org/)
+- [MX Linux](https://mxlinux.org/)
 
 ---
 
 ## 🛡️ Security, Privacy & Forensics
 
-**Specialized distros for auditing, penetration testing, and secure operations.**
+Specialized distros for auditing, penetration testing, and secure operations.
 
-### 🔴 Kali Linux
-
-### 🟡 Parrot OS
+- [Kali Linux](https://www.kali.org/)    
+- [Parrot OS](https://www.parrotsec.org/)
 
 ---
+
+
+#### NOTE:
+This list categorizes Linux distributions based on their **primary design purpose**. While each distro is placed in the category that best represents its intended focus, **many distributions are versatile** and can be used across multiple purposes, such as development, gaming, security, or cloud deployment. Placement here reflects **what the distro was primarily designed for**, not its potential uses.
 
 ## 📝 Important Notes
 
